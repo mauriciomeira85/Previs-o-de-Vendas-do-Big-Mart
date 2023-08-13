@@ -49,11 +49,12 @@ Os dados foram extraidos da plataforma [Kaggle](https://www.kaggle.com/datasets/
 
 
 
-<img src="https://github.com/mauriciomeira85/Previsao-de-Vendas-do-Big-Mart/blob/main/Imagens/1.png" alt="drawing" align="left" width="55%"  height="400" /> 
+<img src="https://github.com/mauriciomeira85/Previsao-de-Vendas-do-Big-Mart/blob/main/Imagens/1.png" alt="drawing" align="left" width="100%"  height="300" /> 
 
 
 
-<img src="https://github.com/mauriciomeira85/Previsao-de-Vendas-do-Big-Mart/blob/main/Imagens/2.png" alt="drawing" align="right" width="55%"  height="400" />
+
+<img src="https://github.com/mauriciomeira85/Previsao-de-Vendas-do-Big-Mart/blob/main/Imagens/2.png" alt="drawing" align="right" width="100%"  height="280" />
 
 
 # 6. Verificando inconsistências nos dados
@@ -99,6 +100,8 @@ Foi dentificado os seguintes problemas:
 ![](Imagens/5.png) 
 ## - Detecção de outliers com o algoritmo KNN
 - Lista completa dos outliers para ser enviada para o setor responsável.
+
+
 ![](Imagens/6.png)
 
 * Foi criada uma lista om os IDs dos registros que foram considerados outliers para ser enviada para o setor responsável para verificar o motivo desses outliers.
@@ -110,6 +113,7 @@ Foi dentificado os seguintes problemas:
 ![](Imagens/7.png)
 
 #### - Lista de Hipóteses selecionadas:
+
 *****1*****. Produtos com peso maior vendem mais do que produtos com peso menor.
 
 *****2*****. Produtos com baixo teor de gordura vendem mais.
