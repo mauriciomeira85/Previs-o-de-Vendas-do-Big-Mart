@@ -47,14 +47,9 @@ Este é um projeto de data sciense and analyts, que envolve a utilização de mo
 
 Os dados foram extraidos da plataforma [Kaggle](https://www.kaggle.com/datasets/shivan118/big-mart-sales-prediction-datasets) Foi feio o downloard do arquivo em csv e importado para o jupyter notebook utilizando a biblioteca pandas. Após isso, foi feito um cópia desses dados.
 
+![](Imagens/1.png)
 
-
-<img src="https://github.com/mauriciomeira85/Previsao-de-Vendas-do-Big-Mart/blob/main/Imagens/1.png" alt="drawing" align="left" width="100%"  height="300" /> 
-
-
-
-
-<img src="https://github.com/mauriciomeira85/Previsao-de-Vendas-do-Big-Mart/blob/main/Imagens/2.png" alt="drawing" align="right" width="100%"  height="280" />
+![](Imagens/2.png)
 
 
 # 6. Verificando inconsistências nos dados
