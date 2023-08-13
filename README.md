@@ -49,11 +49,11 @@ Os dados foram extraidos da plataforma [Kaggle](https://www.kaggle.com/datasets/
 
 
 
-<img src="https://github.com/mauriciomeira85/Previsao-de-Vendas-do-Big-Mart/blob/main/Imagens/1.png" alt="drawing" align="left" width="55%"  height="370" /> 
+<img src="https://github.com/mauriciomeira85/Previsao-de-Vendas-do-Big-Mart/blob/main/Imagens/1.png" alt="drawing" align="left" width="55%"  height="400" /> 
 
 
 
-<img src="https://github.com/mauriciomeira85/Previsao-de-Vendas-do-Big-Mart/blob/main/Imagens/2.png" alt="drawing" align="right" width="55%"  height="370" />
+<img src="https://github.com/mauriciomeira85/Previsao-de-Vendas-do-Big-Mart/blob/main/Imagens/2.png" alt="drawing" align="right" width="55%"  height="400" />
 
 
 # 6. Verificando inconsistências nos dados
