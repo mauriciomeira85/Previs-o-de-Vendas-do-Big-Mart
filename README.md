@@ -5,6 +5,8 @@
    
 Os cientistas de dados do BigMart coletaram dados de vendas de 2013 para 1.559 produtos em 10 lojas em diferentes cidades. Além disso, foram definidos alguns atributos de cada produto e loja. O objetivo é construir um modelo preditivo e prever as vendas de cada produto em um determinado ponto de venda. Usando este modelo, o BigMart tentará entender as propriedades dos produtos e pontos de venda que desempenham um papel fundamental no aumento das vendas. Observe que os dados podem ter valores ausentes, pois algumas lojas podem não relatar todos os dados devido a falhas técnicas. Portanto, será necessário tratá-los adequadamente. Desse modo, a partir do conjunto de dados extraidos da plataforma [Kaggle](https://www.kaggle.com/datasets/shivan118/big-mart-sales-prediction-datasets), este projeto tem a finalidade de criar modelos preditivos para prever a rotatividade de clientes numa determinada empresa.
 
+OBSERVAÇÃO: Caso não esteja conseguindo visualizar o arquivo do jupyter notebook aqui pelo Github, você pode acessar este link: (https://drive.google.com/file/d/14Lb8UoeIU7nOJu6AB22neH5Aa--AkhB2/view?usp=sharing)
+
 # 2. Objetivo
 
 Construir um modelo de predição vendas.
