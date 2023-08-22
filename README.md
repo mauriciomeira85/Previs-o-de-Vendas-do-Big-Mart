@@ -1,4 +1,4 @@
-# Prevendo a rotatividade de clientes com Marchine-Learning
+# Previsão de vendas do Big Mart
 <img src="https://github.com/mauriciomeira85/Previsao-de-Vendas-do-Big-Mart/blob/main/Imagens/Big%20Mart.png" alt="drawing" width="100%"/>
 
 # 1. Introdução
